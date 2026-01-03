@@ -72,4 +72,4 @@ We developed multiple versions of the parser and lexical analyzer:
 [4] GFG Recursive Descent Parser example 2: https://www.geeksforgeeks.org/recursive-descent-parser/
 
 ## Authors
-This project was collaboratively developed by Carlos Herrera and Hannah G. Simon.
+This project was collaboratively developed by Hannah G. Simon and Carlos Herrera.
