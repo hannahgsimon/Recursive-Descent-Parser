@@ -1,0 +1,6 @@
+let x : int = 7 ;
+y : real = 3.0 ;
+in
+real ( ( real ( x ) + y ) * ( real ( x ) - y ) )
+end ;
+let x = 8 ; in ( x + y ) end ;
